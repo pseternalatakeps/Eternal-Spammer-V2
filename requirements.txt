@@ -1,0 +1,10 @@
+colorama
+requests
+anticaptchaofficial
+pyfiglet
+aiohttp
+discord
+discord.py
+markdown
+psutil
+async-timeout
