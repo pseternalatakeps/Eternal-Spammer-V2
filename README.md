@@ -1,48 +1,18 @@
-<h2 align="center">
-  Bloody-Spammer was made with
+# Eternal Nuker
+> A fast and easy to use discord webhook spammer with proxies created by Eternal Atake. For even faster spamming, proxies are auto scraped every once in a while.
 
-Love ❌ code ✅
-
-</h2>
-
-<h1 align="center">Welcome to Bloody-Spammer 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-v2-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/kefranabg/readme-md-generator#readme" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a>
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/BloodyToolzz/Bloody-Spammer" />
-  </a>
-</p>
-
-> A blazing fast Discord webhook spammer with proxy support coded by Bloody (me) This spammer auto scrapes proxies every once a while for faster spamming.
-
-## Install
-
-```sh
+## Installation
+**Make sure to install the required dependencies and packages.**
+```bash
 pip install -r requirements.txt
 ```
-
 ## Usage
-
-```sh
+**Simple to set up and simple to start up.**
+```py
 python main.py
 ```
-
+## Support
+If you have any questions or are experiencing issues, please open an issue in this repository for support from me.
 ## Author
-
-👤 **Bloody**
-
-* Github: [@BloodyToolzz](https://github.com/BloodyToolzz)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/BloodyToolzz/Bloody-Spammer/issues). 
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+🙋🏾‍♂️ **Eternal Atake**
+* Open for contributions and requests at any time.
